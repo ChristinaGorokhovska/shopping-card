@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "description": "A powerful and modern gadget",
+    "price": 10,
+    "imgUrl": "/imgs/product.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fridge",
+    "description": "A powerful and modern gadget",
+    "price": 10,
+    "imgUrl": "/imgs/product.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "description": "A powerful and modern gadget",
+    "price": 10,
+    "imgUrl": "/imgs/product.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Earphones",
+    "description": "A powerful and modern gadget",
+    "price": 10,
+    "imgUrl": "/imgs/product.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Apple Pencil",
+    "description": "A powerful and modern gadget",
+    "price": 10,
+    "imgUrl": "/imgs/product.jpg"
+  }
+]
